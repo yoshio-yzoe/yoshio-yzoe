@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yoshio-yzoe/yoshio-yzoe/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
